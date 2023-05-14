@@ -1,0 +1,8 @@
+D:/Study/C&C++/Curriculum Design/TASK/build/CMakeFiles/TASK.dir
+D:/Study/C&C++/Curriculum Design/TASK/build/CMakeFiles/edit_cache.dir
+D:/Study/C&C++/Curriculum Design/TASK/build/CMakeFiles/rebuild_cache.dir
+D:/Study/C&C++/Curriculum Design/TASK/build/CMakeFiles/list_install_components.dir
+D:/Study/C&C++/Curriculum Design/TASK/build/CMakeFiles/install.dir
+D:/Study/C&C++/Curriculum Design/TASK/build/CMakeFiles/install/local.dir
+D:/Study/C&C++/Curriculum Design/TASK/build/CMakeFiles/install/strip.dir
+D:/Study/C&C++/Curriculum Design/TASK/build/CMakeFiles/TASK_autogen.dir
