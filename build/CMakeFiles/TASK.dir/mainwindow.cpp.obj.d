@@ -365,11 +365,28 @@ CMakeFiles/TASK.dir/mainwindow.cpp.obj: \
  D:/Qt/6.5.0/mingw_64/include/QtGui/qinputmethod.h \
  D:/Qt/6.5.0/mingw_64/include/QtCore/qlocale.h \
  D:/Qt/6.5.0/mingw_64/include/QtGui/qguiapplication_platform.h \
+ D:/Qt/6.5.0/mingw_64/include/QtWidgets/QLabel \
+ D:/Qt/6.5.0/mingw_64/include/QtWidgets/qlabel.h \
+ D:/Qt/6.5.0/mingw_64/include/QtWidgets/qframe.h \
+ D:/Qt/6.5.0/mingw_64/include/QtGui/qpicture.h \
+ D:/Qt/6.5.0/mingw_64/include/QtCore/qiodevice.h \
+ D:/Qt/6.5.0/mingw_64/include/QtGui/qtextdocument.h \
+ D:/Qt/6.5.0/mingw_64/include/QtCore/qurl.h \
+ D:/Qt/6.5.0/mingw_64/include/QtWidgets/QLineEdit \
+ D:/Qt/6.5.0/mingw_64/include/QtWidgets/qlineedit.h \
+ D:/Qt/6.5.0/mingw_64/include/QtGui/qtextcursor.h \
+ D:/Qt/6.5.0/mingw_64/include/QtGui/qtextformat.h \
+ D:/Qt/6.5.0/mingw_64/include/QtGui/qpen.h \
+ D:/Qt/6.5.0/mingw_64/include/QtGui/qtextoption.h \
  D:/Qt/6.5.0/mingw_64/include/QtWidgets/QMainWindow \
  D:/Qt/6.5.0/mingw_64/include/QtWidgets/QMenuBar \
  D:/Qt/6.5.0/mingw_64/include/QtWidgets/qmenubar.h \
  D:/Qt/6.5.0/mingw_64/include/QtWidgets/qmenu.h \
+ D:/Qt/6.5.0/mingw_64/include/QtWidgets/QPushButton \
+ D:/Qt/6.5.0/mingw_64/include/QtWidgets/qpushbutton.h \
+ D:/Qt/6.5.0/mingw_64/include/QtWidgets/qabstractbutton.h \
  D:/Qt/6.5.0/mingw_64/include/QtWidgets/QStatusBar \
  D:/Qt/6.5.0/mingw_64/include/QtWidgets/qstatusbar.h \
  D:/Qt/6.5.0/mingw_64/include/QtWidgets/QWidget \
- D:/Qt/6.5.0/mingw_64/include/QtWidgets/qwidget.h
+ D:/Qt/6.5.0/mingw_64/include/QtWidgets/qwidget.h \
+ D:/Qt/6.5.0/mingw_64/include/QtCore/QProcess.h

@@ -1086,14 +1086,31 @@ CMakeFiles/TASK.dir/mainwindow.cpp.obj: D:/Study/C&C++/Curriculum\ Design/TASK/m
   D:/Qt/6.5.0/mingw_64/include/QtGui/qinputmethod.h \
   D:/Qt/6.5.0/mingw_64/include/QtCore/qlocale.h \
   D:/Qt/6.5.0/mingw_64/include/QtGui/qguiapplication_platform.h \
+  D:/Qt/6.5.0/mingw_64/include/QtWidgets/QLabel \
+  D:/Qt/6.5.0/mingw_64/include/QtWidgets/qlabel.h \
+  D:/Qt/6.5.0/mingw_64/include/QtWidgets/qframe.h \
+  D:/Qt/6.5.0/mingw_64/include/QtGui/qpicture.h \
+  D:/Qt/6.5.0/mingw_64/include/QtCore/qiodevice.h \
+  D:/Qt/6.5.0/mingw_64/include/QtGui/qtextdocument.h \
+  D:/Qt/6.5.0/mingw_64/include/QtCore/qurl.h \
+  D:/Qt/6.5.0/mingw_64/include/QtWidgets/QLineEdit \
+  D:/Qt/6.5.0/mingw_64/include/QtWidgets/qlineedit.h \
+  D:/Qt/6.5.0/mingw_64/include/QtGui/qtextcursor.h \
+  D:/Qt/6.5.0/mingw_64/include/QtGui/qtextformat.h \
+  D:/Qt/6.5.0/mingw_64/include/QtGui/qpen.h \
+  D:/Qt/6.5.0/mingw_64/include/QtGui/qtextoption.h \
   D:/Qt/6.5.0/mingw_64/include/QtWidgets/QMainWindow \
   D:/Qt/6.5.0/mingw_64/include/QtWidgets/QMenuBar \
   D:/Qt/6.5.0/mingw_64/include/QtWidgets/qmenubar.h \
   D:/Qt/6.5.0/mingw_64/include/QtWidgets/qmenu.h \
+  D:/Qt/6.5.0/mingw_64/include/QtWidgets/QPushButton \
+  D:/Qt/6.5.0/mingw_64/include/QtWidgets/qpushbutton.h \
+  D:/Qt/6.5.0/mingw_64/include/QtWidgets/qabstractbutton.h \
   D:/Qt/6.5.0/mingw_64/include/QtWidgets/QStatusBar \
   D:/Qt/6.5.0/mingw_64/include/QtWidgets/qstatusbar.h \
   D:/Qt/6.5.0/mingw_64/include/QtWidgets/QWidget \
-  D:/Qt/6.5.0/mingw_64/include/QtWidgets/qwidget.h
+  D:/Qt/6.5.0/mingw_64/include/QtWidgets/qwidget.h \
+  D:/Qt/6.5.0/mingw_64/include/QtCore/qprocess.h
 
 
 D:/Qt/6.5.0/mingw_64/include/QtCore/qtaggedpointer.h:
@@ -1179,6 +1196,8 @@ D:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/stddef.h:
 D:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/stddef.h:
 
 D:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/std_abs.h:
+
+D:/Qt/6.5.0/mingw_64/include/QtGui/qtextdocument.h:
 
 D:/Qt/6.5.0/mingw_64/include/QtCore/qshareddata_impl.h:
 
@@ -1454,6 +1473,8 @@ D:/Qt/6.5.0/mingw_64/include/QtCore/qfunctionpointer.h:
 
 D:/Qt/6.5.0/mingw_64/include/QtCore/qglobalstatic.h:
 
+D:/Qt/6.5.0/mingw_64/include/QtGui/qtextformat.h:
+
 D:/Qt/6.5.0/mingw_64/include/QtCore/qmalloc.h:
 
 D:/Qt/6.5.0/mingw_64/include/QtCore/qrect.h:
@@ -1548,6 +1569,8 @@ D:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_
 
 D:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/node_handle.h:
 
+D:/Qt/6.5.0/mingw_64/include/QtGui/qpen.h:
+
 D:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/unordered_map.h:
 
 D:/Qt/6.5.0/mingw_64/include/QtCore/qset.h:
@@ -1598,6 +1621,8 @@ D:/Qt/6.5.0/mingw_64/include/QtCore/qxptype_traits.h:
 
 D:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/iterator:
 
+D:/Qt/6.5.0/mingw_64/include/QtWidgets/qlabel.h:
+
 D:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stringfwd.h:
 
 D:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/postypes.h:
@@ -1623,6 +1648,8 @@ D:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stre
 D:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/streambuf:
 
 D:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/localefwd.h:
+
+D:/Qt/6.5.0/mingw_64/include/QtCore/qprocess.h:
 
 D:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h:
 
@@ -1736,6 +1763,8 @@ D:/Qt/6.5.0/mingw_64/include/QtCore/qstringliteral.h:
 
 D:/Qt/6.5.0/mingw_64/include/QtCore/qstringalgorithms.h:
 
+D:/Qt/6.5.0/mingw_64/include/QtWidgets/QLabel:
+
 D:/Qt/6.5.0/mingw_64/include/QtCore/qstringtokenizer.h:
 
 D:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_numeric.h:
@@ -1840,7 +1869,29 @@ D:/Qt/6.5.0/mingw_64/include/QtGui/qguiapplication_platform.h:
 
 D:/Qt/6.5.0/mingw_64/include/QtCore/QVariant:
 
+D:/Qt/6.5.0/mingw_64/include/QtWidgets/qframe.h:
+
+D:/Qt/6.5.0/mingw_64/include/QtGui/qpicture.h:
+
+D:/Qt/6.5.0/mingw_64/include/QtCore/qiodevice.h:
+
+D:/Qt/6.5.0/mingw_64/include/QtCore/qurl.h:
+
+D:/Qt/6.5.0/mingw_64/include/QtWidgets/QLineEdit:
+
+D:/Qt/6.5.0/mingw_64/include/QtWidgets/qlineedit.h:
+
+D:/Qt/6.5.0/mingw_64/include/QtGui/qtextcursor.h:
+
+D:/Qt/6.5.0/mingw_64/include/QtGui/qtextoption.h:
+
 D:/Qt/6.5.0/mingw_64/include/QtWidgets/qmenu.h:
+
+D:/Qt/6.5.0/mingw_64/include/QtWidgets/QPushButton:
+
+D:/Qt/6.5.0/mingw_64/include/QtWidgets/qpushbutton.h:
+
+D:/Qt/6.5.0/mingw_64/include/QtWidgets/qabstractbutton.h:
 
 D:/Qt/6.5.0/mingw_64/include/QtWidgets/QStatusBar:
 
